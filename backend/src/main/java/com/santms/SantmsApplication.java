@@ -20,9 +20,9 @@ public class SantmsApplication {
         SpringApplication.run(SantmsApplication.class, args);
         System.out.println("""
             ╔══════════════════════════════════════════════════════════╗
-            ║   SANTMS - Network Management System                    ║
-            ║   Version 1.0.0  |  Running on http://localhost:8080    ║
-            ║   Status: ACTIVE  |  Environment: Development           ║
+            ║   SANTMS - Network Management System                     ║
+            ║   Version 1.0.0  |  Running on http://localhost:8080     ║
+            ║   Status: ACTIVE  |  Environment: Development            ║
             ╚══════════════════════════════════════════════════════════╝
             """);
     }
