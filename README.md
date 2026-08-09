@@ -9,6 +9,16 @@ Network administrators often need to manually identify connected devices and und
 ## Solution Overview
 Automatic Secure Network Topology Generator is a web-based network management system that automatically discovers devices in a network and generates a secure network topology. It helps users identify network devices, understand their connections, monitor network information, and analyze security-related information through a centralized interface.
 
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### Network Topology
+
+![Network Topology](./screenshots/topology.png)
+
 ## Technology Stack
 
 - Frontend: HTML, CSS, JavaScript
