@@ -51,7 +51,7 @@ Automatic Secure Network Topology Generator is a web-based network management sy
 [View Database Schema](./schema.sql)
 
 ## Project Structure
-
+```text
 Automatic-Network-Topology-HackMatrix2026/
 │
 ├── README.md
